@@ -1,0 +1,15 @@
+D:\Desktop\seminar5\practica5\seminar 2911\bin\Debug\net6.0\seminar 2911.exe
+D:\Desktop\seminar5\practica5\seminar 2911\bin\Debug\net6.0\seminar 2911.deps.json
+D:\Desktop\seminar5\practica5\seminar 2911\bin\Debug\net6.0\seminar 2911.runtimeconfig.json
+D:\Desktop\seminar5\practica5\seminar 2911\bin\Debug\net6.0\seminar 2911.dll
+D:\Desktop\seminar5\practica5\seminar 2911\bin\Debug\net6.0\seminar 2911.pdb
+D:\Desktop\seminar5\practica5\seminar 2911\obj\Debug\net6.0\seminar 2911.csproj.AssemblyReference.cache
+D:\Desktop\seminar5\practica5\seminar 2911\obj\Debug\net6.0\seminar 2911.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\seminar5\practica5\seminar 2911\obj\Debug\net6.0\seminar 2911.AssemblyInfoInputs.cache
+D:\Desktop\seminar5\practica5\seminar 2911\obj\Debug\net6.0\seminar 2911.AssemblyInfo.cs
+D:\Desktop\seminar5\practica5\seminar 2911\obj\Debug\net6.0\seminar 2911.csproj.CoreCompileInputs.cache
+D:\Desktop\seminar5\practica5\seminar 2911\obj\Debug\net6.0\seminar 2911.dll
+D:\Desktop\seminar5\practica5\seminar 2911\obj\Debug\net6.0\refint\seminar 2911.dll
+D:\Desktop\seminar5\practica5\seminar 2911\obj\Debug\net6.0\seminar 2911.pdb
+D:\Desktop\seminar5\practica5\seminar 2911\obj\Debug\net6.0\seminar 2911.genruntimeconfig.cache
+D:\Desktop\seminar5\practica5\seminar 2911\obj\Debug\net6.0\ref\seminar 2911.dll
