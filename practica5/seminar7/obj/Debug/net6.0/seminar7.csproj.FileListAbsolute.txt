@@ -1,0 +1,15 @@
+D:\Desktop\seminar5\practica5\seminar7\obj\Debug\net6.0\seminar7.csproj.AssemblyReference.cache
+D:\Desktop\seminar5\practica5\seminar7\obj\Debug\net6.0\seminar7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\seminar5\practica5\seminar7\obj\Debug\net6.0\seminar7.AssemblyInfoInputs.cache
+D:\Desktop\seminar5\practica5\seminar7\obj\Debug\net6.0\seminar7.AssemblyInfo.cs
+D:\Desktop\seminar5\practica5\seminar7\obj\Debug\net6.0\seminar7.csproj.CoreCompileInputs.cache
+D:\Desktop\seminar5\practica5\seminar7\bin\Debug\net6.0\seminar7.exe
+D:\Desktop\seminar5\practica5\seminar7\bin\Debug\net6.0\seminar7.deps.json
+D:\Desktop\seminar5\practica5\seminar7\bin\Debug\net6.0\seminar7.runtimeconfig.json
+D:\Desktop\seminar5\practica5\seminar7\bin\Debug\net6.0\seminar7.dll
+D:\Desktop\seminar5\practica5\seminar7\bin\Debug\net6.0\seminar7.pdb
+D:\Desktop\seminar5\practica5\seminar7\obj\Debug\net6.0\seminar7.dll
+D:\Desktop\seminar5\practica5\seminar7\obj\Debug\net6.0\refint\seminar7.dll
+D:\Desktop\seminar5\practica5\seminar7\obj\Debug\net6.0\seminar7.pdb
+D:\Desktop\seminar5\practica5\seminar7\obj\Debug\net6.0\seminar7.genruntimeconfig.cache
+D:\Desktop\seminar5\practica5\seminar7\obj\Debug\net6.0\ref\seminar7.dll
