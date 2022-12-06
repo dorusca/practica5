@@ -13,7 +13,7 @@ void Show2Array (int [,] array)
 {
  for (int i= 0; i< array.GetLength(0); i++ )
  {
-    for (int j=0; j<array.GetLength(0); j++)
+    for (int j=0; j<array.GetLength(1); j++)
     {
         Console.Write(array[i,j] + " "); //вывод значения
     }
@@ -23,16 +23,16 @@ void Show2Array (int [,] array)
 Console.WriteLine(); //отступ от массива
 
 } 
-Console.WriteLine ("\n Введите  количество строчек:  ");
+Console.Write ("\n Введите  количество строчек:  ");
 int rows = Convert.ToInt32 (Console.ReadLine ());
 
-Console.WriteLine ("\n Введите  количество столбцов:  ");
+Console.Write ("\n Введите  количество столбцов:  ");
 int colums = Convert.ToInt32 (Console.ReadLine ());
 
-Console.WriteLine ("\n Введите  минимальное значение:  ");
+Console.Write ("\n Введите  минимальное значение:  ");
 int min = Convert.ToInt32 (Console.ReadLine ());
 
-Console.WriteLine ("\n Введите  максимальное значение:  ");
+Console.Write("\n Введите  максимальное значение:  ");
 int max = Convert.ToInt32 (Console.ReadLine ());
 
 int [,] newArray = Create2Array (rows,colums , min, max );
@@ -59,7 +59,7 @@ void Show2Array (int [,] array)
 {
  for (int i= 0; i< array.GetLength(0); i++ )
  {
-    for (int j=0; j<array.GetLength(0); j++)
+    for (int j=0; j<array.GetLength(1); j++)
     {
         Console.Write(array[i,j] + " "); //вывод значения
     }
@@ -125,7 +125,7 @@ void Show2Array (int [,] array)
 {
  for (int i= 0; i< array.GetLength(0); i++ )
  {
-    for (int j=0; j<array.GetLength(0); j++)
+    for (int j=0; j<array.GetLength(1); j++)
     {
         Console.Write(array[i,j] + " "); //вывод значения
     }
@@ -169,7 +169,7 @@ Show2Array (newArray);
 EvenNumbers (newArray);
 Show2Array (newArray);
 
-Найти сумму элементов главной диагонали*/
+Найти сумму элементов главной диагонали
 
 int [,] Create2dArray (int row, int column, int minVal, int maxVal)
 {
