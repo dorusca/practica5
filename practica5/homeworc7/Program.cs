@@ -111,8 +111,6 @@ int max = Convert.ToInt32 (Console.ReadLine ());
 
 int [,] newArray = Create2Array (rows,colums , min, max );
 
-
-
 Show2Array (newArray);
 
 Show2dNumbers (newArray);
