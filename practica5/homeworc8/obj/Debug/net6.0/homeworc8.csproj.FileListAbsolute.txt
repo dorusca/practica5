@@ -1,0 +1,15 @@
+D:\Desktop\seminar5\practica5\homeworc8\bin\Debug\net6.0\homeworc8.exe
+D:\Desktop\seminar5\practica5\homeworc8\bin\Debug\net6.0\homeworc8.deps.json
+D:\Desktop\seminar5\practica5\homeworc8\bin\Debug\net6.0\homeworc8.runtimeconfig.json
+D:\Desktop\seminar5\practica5\homeworc8\bin\Debug\net6.0\homeworc8.dll
+D:\Desktop\seminar5\practica5\homeworc8\bin\Debug\net6.0\homeworc8.pdb
+D:\Desktop\seminar5\practica5\homeworc8\obj\Debug\net6.0\homeworc8.csproj.AssemblyReference.cache
+D:\Desktop\seminar5\practica5\homeworc8\obj\Debug\net6.0\homeworc8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\seminar5\practica5\homeworc8\obj\Debug\net6.0\homeworc8.AssemblyInfoInputs.cache
+D:\Desktop\seminar5\practica5\homeworc8\obj\Debug\net6.0\homeworc8.AssemblyInfo.cs
+D:\Desktop\seminar5\practica5\homeworc8\obj\Debug\net6.0\homeworc8.csproj.CoreCompileInputs.cache
+D:\Desktop\seminar5\practica5\homeworc8\obj\Debug\net6.0\homeworc8.dll
+D:\Desktop\seminar5\practica5\homeworc8\obj\Debug\net6.0\refint\homeworc8.dll
+D:\Desktop\seminar5\practica5\homeworc8\obj\Debug\net6.0\homeworc8.pdb
+D:\Desktop\seminar5\practica5\homeworc8\obj\Debug\net6.0\homeworc8.genruntimeconfig.cache
+D:\Desktop\seminar5\practica5\homeworc8\obj\Debug\net6.0\ref\homeworc8.dll
