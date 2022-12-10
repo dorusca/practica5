@@ -1,0 +1,15 @@
+D:\Desktop\seminar5\practica5\seminar 9\bin\Debug\net6.0\seminar 9.exe
+D:\Desktop\seminar5\practica5\seminar 9\bin\Debug\net6.0\seminar 9.deps.json
+D:\Desktop\seminar5\practica5\seminar 9\bin\Debug\net6.0\seminar 9.runtimeconfig.json
+D:\Desktop\seminar5\practica5\seminar 9\bin\Debug\net6.0\seminar 9.dll
+D:\Desktop\seminar5\practica5\seminar 9\bin\Debug\net6.0\seminar 9.pdb
+D:\Desktop\seminar5\practica5\seminar 9\obj\Debug\net6.0\seminar 9.csproj.AssemblyReference.cache
+D:\Desktop\seminar5\practica5\seminar 9\obj\Debug\net6.0\seminar 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\seminar5\practica5\seminar 9\obj\Debug\net6.0\seminar 9.AssemblyInfoInputs.cache
+D:\Desktop\seminar5\practica5\seminar 9\obj\Debug\net6.0\seminar 9.AssemblyInfo.cs
+D:\Desktop\seminar5\practica5\seminar 9\obj\Debug\net6.0\seminar 9.csproj.CoreCompileInputs.cache
+D:\Desktop\seminar5\practica5\seminar 9\obj\Debug\net6.0\seminar 9.dll
+D:\Desktop\seminar5\practica5\seminar 9\obj\Debug\net6.0\refint\seminar 9.dll
+D:\Desktop\seminar5\practica5\seminar 9\obj\Debug\net6.0\seminar 9.pdb
+D:\Desktop\seminar5\practica5\seminar 9\obj\Debug\net6.0\seminar 9.genruntimeconfig.cache
+D:\Desktop\seminar5\practica5\seminar 9\obj\Debug\net6.0\ref\seminar 9.dll

@@ -162,35 +162,13 @@ Console.Write ($"\n Cтрока с наименьшей суммой элеме�
 12 13 14 05
 11 16 15 06
 10 09 08 07
+
+
 */
+void CreateSpiralArray (int row, int column)
 
-
-int [,] Create2Array (int row, int column)
 {
-int [,] create2Array= new int [row,column];
-
-for (int i =0; i< row; i++){
-  for (int j =0; j < column; j++);
-}
-return create2Array;
-}
-void Show2Array (int [,] array)
-{
- for (int i= 0; i< array.GetLength(0); i++ )
- {
-    for (int j=0; j<array.GetLength(1); j++)
-    {
-        Console.Write(array[i,j] + " "); //вывод значения
-    }
-    Console.WriteLine(); //переход на новую строку
- }
-
-Console.WriteLine(); //отступ от массива
-}
-
-void CreateSpiralArray (int [,] array2)
-{
-
+int [,] array2 = new int [row, column];
 int temp = 1;
 int i = 0;
 int j = 0;
@@ -231,6 +209,5 @@ int rows = Convert.ToInt32 (Console.ReadLine ());
 Console.Write ("\n Введите  количество столбцов:  ");
 int colums = Convert.ToInt32 (Console.ReadLine ());
 
-int[,] array2d = Create2Array (rows,colums);
-Show2Array (array2d);
-CreateSpiralArray (array2d);
+CreateSpiralArray (rows,colums);
+
