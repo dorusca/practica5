@@ -166,7 +166,6 @@ Console.Write ($"\n Cтрока с наименьшей суммой элеме�
 
 */
 void CreateSpiralArray (int row, int column)
-
 {
 int [,] array2 = new int [row, column];
 int temp = 1;
@@ -186,10 +185,8 @@ while (temp <= array2.GetLength(0) * array2.GetLength(1)) // узнаем кол
   else
     i--; // [2,0] =11; [1,0]=12;  /// конец первого витка спирали
 }
-
 WriteArray(array2);
 }
-
 void WriteArray (int[,] array2)
 {
   for (int i = 0; i < array2.GetLength(0); i++)
@@ -203,11 +200,9 @@ void WriteArray (int[,] array2)
     Console.WriteLine();
   }
 }
-
 Console.Write ("\n Введите  количество строчек:  ");
 int rows = Convert.ToInt32 (Console.ReadLine ());
 Console.Write ("\n Введите  количество столбцов:  ");
 int colums = Convert.ToInt32 (Console.ReadLine ());
-
 CreateSpiralArray (rows,colums);
 
